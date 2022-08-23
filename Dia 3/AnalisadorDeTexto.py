@@ -1,0 +1,7 @@
+frase = input("Ingrese un texto cualquiera: ")
+letras = list(input("Ingresa 3 letras: "))
+frase.lower()
+print(frase)
+contador = frase.count(letras[0])
+print(f"las letras ingresadas aparecen:{contador} ")
+print(letras)
