@@ -1,2 +1,2 @@
-name = "putito eres uno feo de mierdaaaaaaaaaaaa"
+name = "pepe eres uno feo de mierdaaaaaaaaaaaa"
 print("hi " + name)
