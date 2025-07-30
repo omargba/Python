@@ -1,2 +1,4 @@
-print("soy putooooooooooooooooooooooooooo")
 
+
+name = "putaaaaaaaaaaaaaaaa"
+print("soy putooooooooooooooooooooooooooo" + name)

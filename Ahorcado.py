@@ -83,6 +83,8 @@ while not juego_terminado:
 
     juego_terminado = terminado
 
+    terminado.bit_count
+
 
 
 
