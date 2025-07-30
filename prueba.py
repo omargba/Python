@@ -1,2 +1,3 @@
-name = "pitooooooooooo eres uno feo de mierdaaaaaaaaaaaa"
-print("hi " + name)
+name = "tratalero tralala"
+name2 = "bombanrdinio cocodrilo"
+print(name + " o " + name2 + "?")
